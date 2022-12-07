@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CursorMonitorShifter": {
+      "commandName": "Project",
+      "commandLineArgs": "down"
+    }
+  }
+}
