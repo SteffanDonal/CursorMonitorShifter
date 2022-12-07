@@ -2,6 +2,8 @@
 
 Teleports your mouse cursor between your connected displays. It's meant to be used in conjunction with either keyboard shortcuts or mouse gestures, and so allows for left, up, down or right commands to control which screen the cursor will move to.
 
+https://user-images.githubusercontent.com/1431570/206311611-315775c9-f98e-4e1f-b5fb-a1274174a6ba.mp4
+
 CursorMonitorShifter makes a "best guess" as to whatever display is considered "the most left/up/right/down" and moves your cursor there. If there are no displays in the direction you wish to move, nothing happens. The cursor's position on the current display is scaled to match the destination display's resolution.
 
 ## Usage
