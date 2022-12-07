@@ -13,7 +13,7 @@ CursorMonitorShifter makes a "best guess" as to whatever display is considered "
 .\CursorMonitorShifter.exe down
 ```
 
-1. Download the latest release, save it somewhere you won't lose it!
+1. [Download the latest release](https://github.com/SteffanDonal/CursorMonitorShifter/releases/latest), save it somewhere you won't lose it!
 2. Setup macros in your favourite tool of choice to run CursorMonitorShifter, and pass a direction as an argument.
 3. Enjoy!
 
